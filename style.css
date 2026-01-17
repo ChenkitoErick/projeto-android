@@ -137,7 +137,7 @@ footer > p {
     color: rgba(198, 255, 212, 0.822);
     text-align: center;
     margin: 0px;
-    padding: 6px;
+    padding: 6px 0px 6px 0px;
 }
 
 .video {
